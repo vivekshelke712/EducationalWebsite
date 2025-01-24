@@ -1,2 +1,2 @@
 # EducationalWebsite
-My Minor Project
+Created Copy of Tron Education Website
